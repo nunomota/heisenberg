@@ -9,7 +9,7 @@
 
 **2)** If you choose (+) you will be asked to provide a standard deviation and a mean for any of the 3 graphs:
 ''
-	<p>- A(k) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rArr;&nbsp; y = e^{-0.5*[(x-stDev)/mean]^ 2} </p>
+	<p>- A(k) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&rArr;&nbsp; y = e^{-0.5 * [(x - stDev) / mean]^2} </p>
 	<p>- Re(&Psi;(x)) &nbsp;&rArr;&nbsp; y = 2 * mean * sqrt(&Pi;) * e^[-1 * (mean * x)^2] * cos(stdDev * x) </p>
 	<p>- |&Psi;(x)|^2 &nbsp;&rArr;&nbsp; y = 4 * mean^2 * &Pi; * e^[2*(mean*x)^2] </p>
 
