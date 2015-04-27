@@ -1,4 +1,4 @@
-**heisenberg** is a simple plot creator, buncled with a couple of instruction to try and shed a little light on "heisenberg's uncertainty principle".
+**heisenberg** is a simple plot creator, bundled with a couple of instruction to try and shed a little light on "heisenberg's uncertainty principle".
 
 # How it works:
 
@@ -9,9 +9,9 @@
 
 **2)** If you choose (+) you will be asked to provide a standard deviation and a mean for any of the 3 graphs:
 ''
-	<p>- A(k) represents </p>
-	<p>- Re(&Psi;(x)) represents </p>
-	<p>- |&Psi;(x)|^2 represents </p>
+	<p>- A(k) -> y = e^{-0.5*[(x-stDev)/mean]^ 2} </p>
+	<p>- Re(&Psi;(x)) -> y = 2 * mean * sqrt(&Pi;) * e^[-1*(mean*x)^2] * cos(stdDev * x) </p>
+	<p>- |&Psi;(x)|^2 -> y = 4 * mean^2 * &Pi; * e^[2*(mean*x)^2] </p>
 
 **3)** If you choose (H) a screen like below will popup (the explanation is currently in Portuguese):
 	<p><img src="/Screenshots/Explanation.png" alt="Explanation.png"></p>
