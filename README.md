@@ -8,9 +8,10 @@
 	Slide the dot at the top-right corner of the screen to change the number of measures of each plot;
 
 **2)** If you choose (+) you will be asked to provide a standard deviation and a mean for any of the 3 graphs:
-	A(k) represents 
-	Re(<p>&Psi</p>(x)) represents
-	|<p>&Psi</p>(x)|^2 represents
+
+	- A(k) represents 
+	- Re(<div>&Psi</div>(x)) represents
+	- |<div>&Psi</div>(x)|^2 represents
 
 **3)** If you choose (H) a screen like below will popup (the explanation is currently in Portuguese):
 	<p><img src="/Screenshots/Explanation.png" alt="Explanation.png"></p>
@@ -23,5 +24,5 @@ To give a simple example of all this, here is a screenshot with 3 different valu
 
 # Other features:
 
-	**1)** You can close a graph by clicking the button at its top left corner.
-	**2)** You can freely move any graph by clicking on top of it and dragging.
+**1)** You can close a graph by clicking the button at its top left corner.
+**2)** You can freely move any graph by clicking on top of it and dragging.
