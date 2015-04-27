@@ -10,9 +10,10 @@
 **2)** If you choose (+) you will be asked to provide a standard deviation and a mean for any of the 3 graphs:
 '''
 	- A(k) represents 
-	- Re(<div>&Psi;</div>(x)) represents
-	- |<div>&Psi;</div>(x)|^2 represents
+	- Re(&Psi;(x)) represents
+	- |&Psi;(x)|^2 represents
 '''
+
 **3)** If you choose (H) a screen like below will popup (the explanation is currently in Portuguese):
 	<p><img src="/Screenshots/Explanation.png" alt="Explanation.png"></p>
 
