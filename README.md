@@ -8,11 +8,10 @@
 	Slide the dot at the top-right corner of the screen to change the number of measures of each plot;
 
 **2)** If you choose (+) you will be asked to provide a standard deviation and a mean for any of the 3 graphs:
-'''
-	- A(k) represents 
-	- Re(&Psi;(x)) represents
-	- |&Psi;(x)|^2 represents
-'''
+''
+	<p>- A(k) represents </p>
+	<p>- Re(&Psi;(x)) represents </p>
+	<p>- |&Psi;(x)|^2 represents </p>
 
 **3)** If you choose (H) a screen like below will popup (the explanation is currently in Portuguese):
 	<p><img src="/Screenshots/Explanation.png" alt="Explanation.png"></p>
