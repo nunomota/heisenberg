@@ -18,7 +18,7 @@
 
 # Scaling:
 
-All the scaling is done independently on each type of graph (not on each graph!) and automatically. According to the user-provided value for the standard deviance, an "interesting" range of values is calculated and only that range will be ploted.
+All the scaling is done independently on each type of graph (not on each graph!) and automatically. According to the user-provided value for the standard deviation, an "interesting" range of values is calculated and only that range will be ploted.
 
 To give a simple example of all this, here is a screenshot with 3 different values of standard deviation and, for each of those values, all three types of graph are plotted in a row.
 	<p><img src="/Screenshots/Example.png" alt="Example.png"></p>
